@@ -1,2 +1,4 @@
 Date,Type,Category,Amount,Description
 2026-05-05,Income,salary,10000.0,monthly salary
+2026-05-18,Income,Salary,30000.0,monthly salary
+2026-05-18,Expense,food,5000.0,daily food
